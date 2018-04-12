@@ -1,2 +1,3 @@
 # hello-word
-My first repository
+
+hi im victor, and im new to github
